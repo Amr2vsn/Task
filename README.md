@@ -33,3 +33,27 @@ Front-end optional: React, Codesandbox …
 * [Bootstrap](https://getbootstrap.com/) 
 * [validator](https://www.npmjs.com/package/validator) 
 
+<!-- GETTING STARTED -->
+## Getting Started
+
+ Back-end:
+  
+    Starting the server:
+
+```bash
+cd backend
+npm install
+node server.js
+```
+Front-end:
+
+    Starting the application:
+
+    ```bash
+cd frontend
+npm install
+npm start
+```
+===============================
+
+* PS: I hereby state that my project unfortunately doesn't fullfill the requirements listed in the given task.Regardless, i have tried my best in favor of the experiences and resources i possess at the current time and am open to critiscism. Thank you.
