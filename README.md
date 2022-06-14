@@ -49,11 +49,10 @@ Front-end:
 
     Starting the application:
 
-    ```bash
+```bash
 cd frontend
 npm install
 npm start
 ```
-===============================
 
 * PS: I hereby state that my project unfortunately doesn't fullfill the requirements listed in the given task.Regardless, i have tried my best in favor of the experiences and resources i possess at the current time and am open to critiscism. Thank you.
